@@ -74,6 +74,21 @@ export const translations = {
     visitUs: "Visit Our Store",
     emailUs: "Email Us",
     callUs: "Call Us",
+
+    // Product Details
+    productNotFound: "Product not found",
+    backToShop: "Back to Shop",
+    materials: "Materials",
+    quantity: "Quantity",
+    "Add to Cart": "Add to Cart",
+    "Customer Reviews": "Customer Reviews",
+    "No reviews yet": "No reviews yet",
+    "Only {count} left!": "Only {count} left!",
+
+    // Added to Cart
+    addedToCart: "added to cart",
+    ourCollection: "Our Collection",
+    collectionSubtitle: "Discover our handcrafted plush toys made with love and sustainable materials",
   },
   az: {
     // Navigation
@@ -150,5 +165,46 @@ export const translations = {
     visitUs: "Mağazamıza Gəlin",
     emailUs: "E-poçt Göndərin",
     callUs: "Zəng Edin",
+
+    // Product Details
+    productNotFound: "Məhsul tapılmadı",
+    backToShop: "Mağazaya Qayıt",
+    materials: "Materiallar",
+    quantity: "Miqdar",
+    "Add to Cart": "Səbətə Əlavə Et",
+    "Customer Reviews": "Müştəri Rəyləri",
+    "No reviews yet": "Hələ rəy yoxdur",
+    "Only {count} left!": "Yalnız {count} ədəd qalıb!",
+
+    // Product Categories (for reference)
+    "Forest Friends": "Meşə Dostları",
+    "Ocean Buddies": "Okean Dostları",
+    "Safari Pals": "Safari Dostları",
+    
+    // Product Names
+    "Sleepy Alpaca": "Yuxulu Alpaka",
+    "Happy Penguin": "Xoşbəxt Pinqvin",
+    "Gentle Giraffe": "Mehriban Zürafə",
+    "Cozy Fox": "Rahat Tülkü",
+    "Friendly Elephant": "Dostcanlı Fil",
+    "Playful Dolphin": "Oyunbaz Delfin",
+
+    // Product Descriptions
+    "A super soft alpaca plushie that's perfect for cuddles and naps.": "Qucaqlamaq və mürgüləmək üçün mükəmməl olan super yumşaq alpaka oyuncağı.",
+    "An adorable penguin friend that brings smiles everywhere.": "Hər yerə təbəssüm gətirən sevimli pinqvin dostu.",
+    "A tall and friendly giraffe with a soft spot for hugs.": "Qucaqlamağı sevən hündür və mehriban zürafə.",
+    "A clever and cuddly fox that's ready for adventure.": "Macəra üçün hazır olan ağıllı və sevimli tülkü.",
+    "A gentle giant with floppy ears and a heart of gold.": "Yumşaq qulaqları və qızıl ürəyi olan nəhəng dost.",
+    "A cheerful dolphin ready to swim into your heart.": "Ürəyinizə üzməyə hazır olan şən delfin.",
+
+    // Materials
+    "Organic Cotton": "Üzvi Pambıq",
+    "Recycled Polyester Fill": "Təkrar Emal Edilmiş Polyester Dolğu",
+    "Bamboo Fiber": "Bambuk Lifi",
+
+    // Added to Cart
+    addedToCart: "səbətə əlavə edildi",
+    ourCollection: "Kolleksiyamız",
+    collectionSubtitle: "Sevgi və davamlı materiallarla hazırlanmış əl işi yumşaq oyuncaqlarımızı kəşf edin",
   }
 }; 

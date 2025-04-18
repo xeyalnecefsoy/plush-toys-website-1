@@ -71,7 +71,7 @@ export default function About() {
           >
             <div className="absolute inset-0 bg-gradient-to-br from-pink-100/50 to-blue-100/50 dark:from-pink-900/20 dark:to-blue-900/20 rounded-2xl transform -rotate-6 group-hover:rotate-0 transition-transform duration-300" />
             <img 
-              src="https://images.unsplash.com/photo-1596073419667-9d77d59f033f"
+              src="https://morismos.com/cdn/shop/files/baby-stuffed-animals-with-their-moms-axolotl-stuffed-animals-squishy-axolotl-plush-pillows-axolotl-cartoon-plush-toys-stuffed-axolotl-toys-christmas-birthday-baby-shower-valentines-graduation-gift-for-boys-girls.jpg?v=1731636952"
               alt="About Luma Plushies"
               className="relative rounded-2xl object-cover w-full h-full shadow-lg transform rotate-3 group-hover:rotate-0 transition-transform duration-300"
             />

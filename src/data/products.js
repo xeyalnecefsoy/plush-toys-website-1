@@ -5,7 +5,7 @@ export const products = [
     price: 29.99,
     description: "A super soft alpaca plushie that's perfect for cuddles and naps.",
     images: [
-      "https://images.unsplash.com/photo-1563901935883-cb61f5d49be4",
+      "https://www.kawaiies.com/cdn/shop/products/kawaiies-plushies-plush-softtoy-fluffy-alpaca-soft-toy-19in-50cm-pink-233070.jpg?v=1599668847",
       "https://images.unsplash.com/photo-1563901935883-cb61f5d49be4",
     ],
     category: "Forest Friends",
@@ -23,7 +23,7 @@ export const products = [
     price: 24.99,
     description: "An adorable penguin friend that brings smiles everywhere.",
     images: [
-      "https://images.unsplash.com/photo-1607344645866-009c320b63e0",
+      "https://www.kawaiies.com/cdn/shop/products/kawaiies-plushies-plush-softtoy-cute-fluffy-penguin-walrus-plushies-soft-toy-penguin-14in-35cm-838772.jpg?v=1695594055",
       "https://images.unsplash.com/photo-1607344645866-009c320b63e0",
     ],
     category: "Ocean Buddies",
@@ -38,7 +38,7 @@ export const products = [
     price: 34.99,
     description: "A tall and friendly giraffe with a soft spot for hugs.",
     images: [
-      "https://images.unsplash.com/photo-1596073419667-9d77d59f033f",
+      "https://www.wrendaledesigns.co.uk/media/catalog/product/cache/c671ade65230e7f57da73062a0176585/p/l/plush010_1.jpg",
       "https://images.unsplash.com/photo-1596073419667-9d77d59f033f",
     ],
     category: "Safari Pals",
@@ -53,7 +53,7 @@ export const products = [
     price: 27.99,
     description: "A clever and cuddly fox that's ready for adventure.",
     images: [
-      "https://images.unsplash.com/photo-1615486363973-f79d875780cf",
+      "https://ae01.alicdn.com/kf/S24496ab763bf4d45be20234f5f27db76r.jpg",
       "https://images.unsplash.com/photo-1615486363973-f79d875780cf",
     ],
     category: "Forest Friends",
@@ -68,7 +68,7 @@ export const products = [
     price: 39.99,
     description: "A gentle giant with floppy ears and a heart of gold.",
     images: [
-      "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f",
+      "https://images-cdn.ubuy.co.in/64012a013813f845053390d3-kinrex-elephant-stuffed-animals.jpg",
       "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f",
     ],
     category: "Safari Pals",
@@ -83,7 +83,7 @@ export const products = [
     price: 26.99,
     description: "A cheerful dolphin ready to swim into your heart.",
     images: [
-      "https://images.unsplash.com/photo-1566140967404-b8b3932483f5",
+      "https://shop.themeparks.com.au/cdn/shop/files/SW_Blue_Dolphin_22__Plush.jpg?v=1729480822",
       "https://images.unsplash.com/photo-1566140967404-b8b3932483f5",
     ],
     category: "Ocean Buddies",
@@ -99,18 +99,27 @@ export const categories = [
     id: 1,
     name: "Forest Friends",
     description: "Adorable woodland creatures to brighten your day",
-    image: "https://images.unsplash.com/photo-1555009393-f20bdb245c4d"
+    images: [
+      "https://www.kawaiies.com/cdn/shop/products/kawaiies-plushies-plush-softtoy-fluffy-alpaca-soft-toy-19in-50cm-pink-233070.jpg?v=1599668847",
+      "https://ae01.alicdn.com/kf/S24496ab763bf4d45be20234f5f27db76r.jpg"
+    ]
   },
   {
     id: 2,
     name: "Ocean Buddies",
     description: "Cute sea creatures for underwater adventures",
-    image: "https://images.unsplash.com/photo-1559454403-b8fb88521cd4"
+    images: [
+      "https://www.kawaiies.com/cdn/shop/products/kawaiies-plushies-plush-softtoy-cute-fluffy-penguin-walrus-plushies-soft-toy-penguin-14in-35cm-838772.jpg?v=1695594055",
+      "https://shop.themeparks.com.au/cdn/shop/files/SW_Blue_Dolphin_22__Plush.jpg?v=1729480822"
+    ]
   },
   {
     id: 3,
     name: "Safari Pals",
     description: "Friendly safari animals for wild imaginations",
-    image: "https://images.unsplash.com/photo-1544194215-541c2d3561a4"
+    images: [
+      "https://www.wrendaledesigns.co.uk/media/catalog/product/cache/c671ade65230e7f57da73062a0176585/p/l/plush010_1.jpg",
+      "https://images-cdn.ubuy.co.in/64012a013813f845053390d3-kinrex-elephant-stuffed-animals.jpg"
+    ]
   }
 ]; 
